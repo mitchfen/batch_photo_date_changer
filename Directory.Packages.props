@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+	<PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.3.2" />
+	<PackageVersion Include="MSTest.TestAdapter" Version="2.2.10" />
+	<PackageVersion Include="MSTest.TestFramework" Version="2.2.10" />
+	<PackageVersion Include="coverlet.collector" Version="3.1.2" />
+	<PackageVersion Include="ExifLibNet" Version="2.1.4" />
+	<PackageVersion Include="Serilog" Version="2.12.0" />
+	<PackageVersion Include="Serilog.Sinks.Console" Version="4.1.0" />
+  </ItemGroup>
+</Project>
